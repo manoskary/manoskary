@@ -7,6 +7,9 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 ### Latest Publications
 
 <!-- BLOG-POST-LIST:START -->
+- [Posts | Academic](https://emmanouil-karystinaios.netlify.app/post/index.html)
+- [Harmonic Trajectories in the Tonnetz | Academic](https://emmanouil-karystinaios.netlify.app/post/getting-started/index.html)
+- [https://emmanouil-karystinaios.netlify.app/post/](https://emmanouil-karystinaios.netlify.app/post/page/1/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 
