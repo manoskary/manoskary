@@ -9,6 +9,12 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 
 
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://emmanouil-karystinaios.netlify.app/#posts)
 
 ---
 
