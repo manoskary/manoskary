@@ -11,8 +11,7 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/melkisedeath/melkisedeath/pull/1) in [melkisedeath/melkisedeath](https://github.com/melkisedeath/melkisedeath)
@@ -21,8 +20,6 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 4. 🎉 Merged PR [#63](https://github.com/CPJKU/partitura/pull/63) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
 5. 🎉 Merged PR [#61](https://github.com/CPJKU/partitura/pull/61) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
 <!--END_SECTION:activity-->
-
-</details>
 
 ---
 
