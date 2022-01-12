@@ -26,12 +26,7 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="melkisedeath's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=melkisedeath&count_private=true&show_icons=true&hide_border=true" />
-
-</details>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=melkisedeath&show_icons=true&theme=radical)
 
 
 <!--
