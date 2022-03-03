@@ -14,11 +14,11 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#87](https://github.com/CPJKU/partitura/issues/87) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-2. 🗣 Commented on [#85](https://github.com/CPJKU/partitura/issues/85) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-3. ❗️ Opened issue [#70](https://github.com/CPJKU/partitura/issues/70) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-4. 🎉 Merged PR [#1](https://github.com/melkisedeath/melkisedeath/pull/1) in [melkisedeath/melkisedeath](https://github.com/melkisedeath/melkisedeath)
-5. 💪 Opened PR [#1](https://github.com/melkisedeath/melkisedeath/pull/1) in [melkisedeath/melkisedeath](https://github.com/melkisedeath/melkisedeath)
+1. ❗️ Closed issue [#87](https://github.com/CPJKU/partitura/issues/87) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+2. 🗣 Commented on [#87](https://github.com/CPJKU/partitura/issues/87) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+3. ❗️ Opened issue [#87](https://github.com/CPJKU/partitura/issues/87) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+4. 🗣 Commented on [#85](https://github.com/CPJKU/partitura/issues/85) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+5. ❗️ Opened issue [#70](https://github.com/CPJKU/partitura/issues/70) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
 <!--END_SECTION:activity-->
 
 ---
