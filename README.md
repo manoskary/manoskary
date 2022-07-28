@@ -23,11 +23,11 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=melkisedeath&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=manoskary&show_icons=true&theme=radical)
 
 
 <!--
-**melkisedeath/melkisedeath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**manoskary/manoskary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
