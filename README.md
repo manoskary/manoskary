@@ -15,10 +15,10 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#222](https://github.com/CPJKU/partitura/issues/222) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-2. ❗️ Opened issue [#221](https://github.com/CPJKU/partitura/issues/221) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-3. 🗣 Commented on [#220](https://github.com/CPJKU/partitura/issues/220) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-4. 🗣 Commented on [#220](https://github.com/CPJKU/partitura/issues/220) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-5. 💪 Opened PR [#220](https://github.com/CPJKU/partitura/pull/220) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+2. 🗣 Commented on [#220](https://github.com/CPJKU/partitura/issues/220) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+3. 🗣 Commented on [#222](https://github.com/CPJKU/partitura/issues/222) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+4. ❗️ Opened issue [#221](https://github.com/CPJKU/partitura/issues/221) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+5. 🗣 Commented on [#220](https://github.com/CPJKU/partitura/issues/220) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
 <!--END_SECTION:activity-->
 
 ---
