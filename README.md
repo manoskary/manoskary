@@ -14,11 +14,11 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#268](https://github.com/CPJKU/partitura/issues/268) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-2. 💪 Opened PR [#268](https://github.com/CPJKU/partitura/pull/268) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-3. 🔒 Closed issue [#101](https://github.com/CPJKU/partitura/issues/101) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-4. 🔒 Closed issue [#202](https://github.com/CPJKU/partitura/issues/202) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-5. 🔒 Closed issue [#205](https://github.com/CPJKU/partitura/issues/205) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+1. 🚀 Published release [Release 1.3.0](https://github.com/Release 1.3.0) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+2. 🎉 Merged PR [#268](https://github.com/CPJKU/partitura/pull/268) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+3. 🗣 Commented on [#268](https://github.com/CPJKU/partitura/issues/268) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+4. 💪 Opened PR [#268](https://github.com/CPJKU/partitura/pull/268) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+5. 🔒 Closed issue [#101](https://github.com/CPJKU/partitura/issues/101) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
 <!--END_SECTION:activity-->
 
 ---
