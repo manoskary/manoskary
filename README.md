@@ -14,11 +14,11 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/CPJKU/paow/pull/1) in [CPJKU/paow](https://github.com/CPJKU/paow)
-2. 💪 Opened PR [#1](https://github.com/CPJKU/paow/pull/1) in [CPJKU/paow](https://github.com/CPJKU/paow)
-3. 🗣 Commented on [#246](https://github.com/CPJKU/partitura/issues/246) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-4. 🗣 Commented on [#280](https://github.com/CPJKU/partitura/issues/280) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-5. 🎉 Merged PR [#284](https://github.com/CPJKU/partitura/pull/284) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+1. 💪 Opened PR [#290](https://github.com/CPJKU/partitura/pull/290) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+2. 🗣 Commented on [#289](https://github.com/CPJKU/partitura/issues/289) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+3. 🗣 Commented on [#289](https://github.com/CPJKU/partitura/issues/289) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+4. 🎉 Merged PR [#1](https://github.com/CPJKU/paow/pull/1) in [CPJKU/paow](https://github.com/CPJKU/paow)
+5. 💪 Opened PR [#1](https://github.com/CPJKU/paow/pull/1) in [CPJKU/paow](https://github.com/CPJKU/paow)
 <!--END_SECTION:activity-->
 
 ---
