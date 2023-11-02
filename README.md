@@ -4,13 +4,6 @@ I'm Emmanouil Karystinaios a Ph.D. in Music Information Retrieval.
 Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and Performance Similarity metrics.
 
 
-### Latest Publications
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
@@ -40,3 +33,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+### Latest Publications
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
