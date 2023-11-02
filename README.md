@@ -6,8 +6,8 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 
 ### Latest Publications
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
 
 ---
 
