@@ -17,7 +17,7 @@ jobs:
       - name: Update this repo's README with latest blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/@manoskaristineos"
+          feed_list: "https://medium.com/feed/@manoskaristineos"
           gh_token: ${{ secrets.GITHUB_TOKEN  }}
           max_post_count: 3
           
