@@ -14,10 +14,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Generate Recent Publications
-        uses: ErrorGamer2000/github-readme-blog-post-action@v1
+      - name: Update this repo's README with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_urls: https://emmanouil-karystinaios.github.io/publication/
+          feed_urls: "https://emmanouil-karystinaios.github.io/publication/"
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
