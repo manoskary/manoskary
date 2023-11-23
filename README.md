@@ -7,11 +7,11 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#338](https://github.com/CPJKU/partitura/pull/338#issuecomment-1820151307) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-2. 🗣 Commented on [#336](https://github.com/CPJKU/partitura/issues/336#issuecomment-1779525808) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-3. 🗣 Commented on [#4](https://github.com/CPJKU/asap-dataset/issues/4#issuecomment-1775066820) in [CPJKU/asap-dataset](https://github.com/CPJKU/asap-dataset)
-4. 🔒 Closed issue [#1](https://github.com/manoskary/vocsep_ijcai2023/issues/1) in [manoskary/vocsep_ijcai2023](https://github.com/manoskary/vocsep_ijcai2023)
-5. 🗣 Commented on [#1](https://github.com/manoskary/vocsep_ijcai2023/issues/1#issuecomment-1767839950) in [manoskary/vocsep_ijcai2023](https://github.com/manoskary/vocsep_ijcai2023)
+1. 🗣 Commented on [#337](https://github.com/CPJKU/partitura/issues/337#issuecomment-1821920095) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+2. 🗣 Commented on [#338](https://github.com/CPJKU/partitura/pull/338#issuecomment-1820151307) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+3. 🗣 Commented on [#336](https://github.com/CPJKU/partitura/issues/336#issuecomment-1779525808) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+4. 🗣 Commented on [#4](https://github.com/CPJKU/asap-dataset/issues/4#issuecomment-1775066820) in [CPJKU/asap-dataset](https://github.com/CPJKU/asap-dataset)
+5. 🔒 Closed issue [#1](https://github.com/manoskary/vocsep_ijcai2023/issues/1) in [manoskary/vocsep_ijcai2023](https://github.com/manoskary/vocsep_ijcai2023)
 <!--END_SECTION:activity-->
 
 ---
