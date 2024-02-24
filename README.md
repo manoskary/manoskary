@@ -7,11 +7,11 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#347](https://github.com/CPJKU/partitura/pull/347) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-2. 💪 Opened PR [#1](https://github.com/audiocontentanalysis/conferences/pull/1) in [audiocontentanalysis/conferences](https://github.com/audiocontentanalysis/conferences)
-3. 🎉 Merged PR [#341](https://github.com/CPJKU/partitura/pull/341) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-4. 🎉 Merged PR [#343](https://github.com/CPJKU/partitura/pull/343) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-5. 💪 Opened PR [#347](https://github.com/CPJKU/partitura/pull/347) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+1. 💪 Opened PR [#350](https://github.com/CPJKU/partitura/pull/350) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+2. ❗ Opened issue [#4](https://github.com/DCMLab/dcml_corpora/issues/4) in [DCMLab/dcml_corpora](https://github.com/DCMLab/dcml_corpora)
+3. 🎉 Merged PR [#347](https://github.com/CPJKU/partitura/pull/347) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+4. 💪 Opened PR [#1](https://github.com/audiocontentanalysis/conferences/pull/1) in [audiocontentanalysis/conferences](https://github.com/audiocontentanalysis/conferences)
+5. 🎉 Merged PR [#341](https://github.com/CPJKU/partitura/pull/341) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
 <!--END_SECTION:activity-->
 
 ---
