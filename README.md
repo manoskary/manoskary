@@ -7,11 +7,11 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#352](https://github.com/CPJKU/partitura/pull/352) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-2. 🎉 Merged PR [#351](https://github.com/CPJKU/partitura/pull/351) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-3. 💪 Opened PR [#351](https://github.com/CPJKU/partitura/pull/351) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-4. 🗣 Commented on [#350](https://github.com/CPJKU/partitura/pull/350#issuecomment-1973397535) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-5. ❌ Closed PR [#350](https://github.com/CPJKU/partitura/pull/350) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+1. 🗣 Commented on [#93](https://github.com/MarkGotham/When-in-Rome/issues/93#issuecomment-2085300850) in [MarkGotham/When-in-Rome](https://github.com/MarkGotham/When-in-Rome)
+2. 💪 Opened PR [#352](https://github.com/CPJKU/partitura/pull/352) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+3. 🎉 Merged PR [#351](https://github.com/CPJKU/partitura/pull/351) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+4. 💪 Opened PR [#351](https://github.com/CPJKU/partitura/pull/351) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+5. 🗣 Commented on [#350](https://github.com/CPJKU/partitura/pull/350#issuecomment-1973397535) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
 <!--END_SECTION:activity-->
 
 ---
