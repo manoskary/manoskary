@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ### Latest Publications
 
 <!-- BLOG-POST-LIST:START -->
+- [From Notes to Insights: Visualizing Graph Neural Network Explanations with SMUG-Explain](https://towardsdatascience.com/from-notes-to-insights-visualizing-graph-neural-network-explanations-with-smug-explain-ed41a30e55ed?source=rss-9d63e988ed0c------2)
 - [Roman Numeral Analysis with Graph Neural Networks](https://towardsdatascience.com/roman-numeral-analysis-with-graph-neural-networks-4d6140cd4c0b?source=rss-9d63e988ed0c------2)
 <!-- BLOG-POST-LIST:END -->
 
