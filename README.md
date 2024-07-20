@@ -7,9 +7,9 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 1.5.0](https://github.com/CPJKU/partitura/releases/tag/v1.5.0) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-2. 🎉 Merged PR [#357](https://github.com/CPJKU/partitura/pull/357) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-3. ❗ Opened issue [#354](https://github.com/CPJKU/partitura/issues/354) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+1. 🚀 Published release [Bump version for minor Fixes](https://github.com/manoskary/graphmuse/releases/tag/v0.0.2) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
+2. 🚀 Published release [Release 1.5.0](https://github.com/CPJKU/partitura/releases/tag/v1.5.0) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+3. 🎉 Merged PR [#357](https://github.com/CPJKU/partitura/pull/357) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
 4. 🗣 Commented on [#344](https://github.com/CPJKU/partitura/pull/344#issuecomment-2105628096) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
 5. 🗣 Commented on [#93](https://github.com/MarkGotham/When-in-Rome/issues/93#issuecomment-2085300850) in [MarkGotham/When-in-Rome](https://github.com/MarkGotham/When-in-Rome)
 <!--END_SECTION:activity-->
