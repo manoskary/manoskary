@@ -7,11 +7,11 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/manoskary/graphmuse/pull/19) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
-2. 🗣 Commented on [#388](https://github.com/CPJKU/partitura/issues/388#issuecomment-2407412547) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-3. 💪 Opened PR [#387](https://github.com/CPJKU/partitura/pull/387) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-4. 🗣 Commented on [#386](https://github.com/CPJKU/partitura/issues/386#issuecomment-2405389037) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-5. ❗ Opened issue [#383](https://github.com/CPJKU/partitura/issues/383) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+1. 🎉 Merged PR [#20](https://github.com/manoskary/graphmuse/pull/20) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
+2. 🗣 Commented on [#20](https://github.com/manoskary/graphmuse/pull/20#issuecomment-2411558449) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
+3. 🎉 Merged PR [#21](https://github.com/manoskary/graphmuse/pull/21) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
+4. 💪 Opened PR [#21](https://github.com/manoskary/graphmuse/pull/21) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
+5. 🗣 Commented on [#584](https://github.com/mido/mido/pull/584#issuecomment-2411262129) in [mido/mido](https://github.com/mido/mido)
 <!--END_SECTION:activity-->
 
 ---
