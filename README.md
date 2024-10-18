@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 ### Latest Publications
 
 <!-- BLOG-POST-LIST:START -->
+- [GraphMuse: A Python Library for Symbolic Music Graph Processing](https://towardsdatascience.com/graphmuse-a-python-library-for-symbolic-music-graph-processing-40dbd9baf319?source=rss-9d63e988ed0c------2)
 - [Perception-Inspired Graph Convolution for Music Understanding Tasks](https://towardsdatascience.com/perception-inspired-graph-convolution-for-music-understanding-tasks-4d2ba1be48e7?source=rss-9d63e988ed0c------2)
 - [From Notes to Insights: Visualizing Graph Neural Network Explanations with SMUG-Explain](https://manoskary.medium.com/from-notes-to-insights-visualizing-graph-neural-network-explanations-with-smug-explain-ed41a30e55ed?source=rss-9d63e988ed0c------2)
-- [Roman Numeral Analysis with Graph Neural Networks](https://towardsdatascience.com/roman-numeral-analysis-with-graph-neural-networks-4d6140cd4c0b?source=rss-9d63e988ed0c------2)
 <!-- BLOG-POST-LIST:END -->
 
