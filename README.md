@@ -7,11 +7,11 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/manoskary/graphmuse/pull/20) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
-2. 🗣 Commented on [#20](https://github.com/manoskary/graphmuse/pull/20#issuecomment-2411558449) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
-3. 🎉 Merged PR [#21](https://github.com/manoskary/graphmuse/pull/21) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
-4. 💪 Opened PR [#21](https://github.com/manoskary/graphmuse/pull/21) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
-5. 🗣 Commented on [#584](https://github.com/mido/mido/pull/584#issuecomment-2411262129) in [mido/mido](https://github.com/mido/mido)
+1. 🗣 Commented on [#387](https://github.com/CPJKU/partitura/pull/387#issuecomment-2422412880) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+2. 🗣 Commented on [#391](https://github.com/CPJKU/partitura/pull/391#issuecomment-2422362441) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+3. 💪 Opened PR [#392](https://github.com/CPJKU/partitura/pull/392) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+4. 🚀 Published release [GraphMuse Release 0.0.4](https://github.com/manoskary/graphmuse/releases/tag/v0.0.4) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
+5. 🎉 Merged PR [#20](https://github.com/manoskary/graphmuse/pull/20) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
 <!--END_SECTION:activity-->
 
 ---
