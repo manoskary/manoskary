@@ -7,11 +7,11 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [GraphMuse v0.0.5](https://github.com/manoskary/graphmuse/releases/tag/v0.0.5) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
-2. 🎉 Merged PR [#397](https://github.com/CPJKU/partitura/pull/397) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-3. 🎉 Merged PR [#392](https://github.com/CPJKU/partitura/pull/392) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-4. 🎉 Merged PR [#382](https://github.com/CPJKU/partitura/pull/382) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-5. 🎉 Merged PR [#387](https://github.com/CPJKU/partitura/pull/387) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+1. ❗ Opened issue [#400](https://github.com/CPJKU/partitura/issues/400) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+2. 🚀 Published release [GraphMuse v0.0.5](https://github.com/manoskary/graphmuse/releases/tag/v0.0.5) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
+3. 🎉 Merged PR [#397](https://github.com/CPJKU/partitura/pull/397) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+4. 🎉 Merged PR [#392](https://github.com/CPJKU/partitura/pull/392) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+5. 🎉 Merged PR [#382](https://github.com/CPJKU/partitura/pull/382) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
 <!--END_SECTION:activity-->
 
 ---
