@@ -7,11 +7,11 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#402](https://github.com/CPJKU/partitura/issues/402) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-2. 🔒 Closed issue [#8](https://github.com/manoskary/graphmuse/issues/8) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
-3. ❗ Opened issue [#400](https://github.com/CPJKU/partitura/issues/400) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-4. 🚀 Published release [GraphMuse v0.0.5](https://github.com/manoskary/graphmuse/releases/tag/v0.0.5) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
-5. 🎉 Merged PR [#397](https://github.com/CPJKU/partitura/pull/397) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+1. 💪 Opened PR [#23](https://github.com/manoskary/graphmuse/pull/23) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
+2. ❗ Opened issue [#22](https://github.com/manoskary/graphmuse/issues/22) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
+3. ❗ Opened issue [#402](https://github.com/CPJKU/partitura/issues/402) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+4. 🔒 Closed issue [#8](https://github.com/manoskary/graphmuse/issues/8) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
+5. ❗ Opened issue [#400](https://github.com/CPJKU/partitura/issues/400) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
 <!--END_SECTION:activity-->
 
 ---
