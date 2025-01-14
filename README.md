@@ -7,11 +7,11 @@ Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#404](https://github.com/CPJKU/partitura/pull/404) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-2. 💪 Opened PR [#24](https://github.com/manoskary/graphmuse/pull/24) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
-3. 🔒 Closed issue [#11](https://github.com/manoskary/graphmuse/issues/11) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
-4. 🔒 Closed issue [#11](https://github.com/manoskary/graphmuse/issues/11) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
-5. 🎉 Merged PR [#23](https://github.com/manoskary/graphmuse/pull/23) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
+1. 🗣 Commented on [#413](https://github.com/CPJKU/partitura/pull/413#issuecomment-2587315088) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+2. 💪 Opened PR [#413](https://github.com/CPJKU/partitura/pull/413) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+3. ❗ Opened issue [#9](https://github.com/humdrum-tools/humdrum-data/issues/9) in [humdrum-tools/humdrum-data](https://github.com/humdrum-tools/humdrum-data)
+4. 🎉 Merged PR [#404](https://github.com/CPJKU/partitura/pull/404) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+5. 💪 Opened PR [#24](https://github.com/manoskary/graphmuse/pull/24) in [manoskary/graphmuse](https://github.com/manoskary/graphmuse)
 <!--END_SECTION:activity-->
 
 ---
