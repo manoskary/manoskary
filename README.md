@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 ### Latest Publications
 
 <!-- BLOG-POST-LIST:START -->
-- [Voice and Staff Separation in Symbolic Piano Music with GNNs](https://towardsdatascience.com/voice-and-staff-separation-in-symbolic-piano-music-with-gnns-0cab100629cf?source=rss-9d63e988ed0c------2)
-- [GraphMuse: A Python Library for Symbolic Music Graph Processing](https://towardsdatascience.com/graphmuse-a-python-library-for-symbolic-music-graph-processing-40dbd9baf319?source=rss-9d63e988ed0c------2)
-- [Perception-Inspired Graph Convolution for Music Understanding Tasks](https://towardsdatascience.com/perception-inspired-graph-convolution-for-music-understanding-tasks-4d2ba1be48e7?source=rss-9d63e988ed0c------2)
+- [Voice and Staff Separation in Symbolic Piano Music with GNNs](https://medium.com/towards-data-science/voice-and-staff-separation-in-symbolic-piano-music-with-gnns-0cab100629cf?source=rss-9d63e988ed0c------2)
+- [GraphMuse: A Python Library for Symbolic Music Graph Processing](https://medium.com/towards-data-science/graphmuse-a-python-library-for-symbolic-music-graph-processing-40dbd9baf319?source=rss-9d63e988ed0c------2)
+- [Perception-Inspired Graph Convolution for Music Understanding Tasks](https://medium.com/towards-data-science/perception-inspired-graph-convolution-for-music-understanding-tasks-4d2ba1be48e7?source=rss-9d63e988ed0c------2)
 <!-- BLOG-POST-LIST:END -->
 
