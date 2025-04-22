@@ -1,7 +1,7 @@
 ### Hello
 
-I'm Emmanouil Karystinaios a Ph.D. in Music Information Retrieval.
-Currently, I'm working on Structure Segmetation of Classical Symbolic Scores and Performance Similarity metrics.
+I'm Emmanouil Karystinaios a Post-Doctoral Researcher in Music Information Retrieval.
+Currently, I'm working on the Automatic Analysis of Music using Graph Neural Networks (GNNs), Optical Music Recognition, and on Generative Music Medicine, exploring the use and controlability of AI-generated music in therapeutic contexts.
 
 
 ### Recent GitHub Activity
