@@ -7,10 +7,10 @@ Currently, I'm working on the Automatic Analysis of Music using Graph Neural Net
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#428](https://github.com/CPJKU/partitura/pull/428#issuecomment-2710310015) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-2. 🎉 Merged PR [#435](https://github.com/CPJKU/partitura/pull/435) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-3. 🗣 Commented on [#428](https://github.com/CPJKU/partitura/pull/428#issuecomment-2704360120) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-4. 🎉 Merged PR [#423](https://github.com/CPJKU/partitura/pull/423) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+1. ❗ Opened issue [#2](https://github.com/manoskary/SMUG-Explain/issues/2) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
+2. 🎉 Merged PR [#429](https://github.com/CPJKU/partitura/pull/429) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+3. 🗣 Commented on [#449](https://github.com/CPJKU/partitura/pull/449#issuecomment-2903708516) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+4. 🗣 Commented on [#428](https://github.com/CPJKU/partitura/pull/428#issuecomment-2903617607) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
 5. 🗣 Commented on [#439](https://github.com/CPJKU/partitura/issues/439#issuecomment-2700519985) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
 <!--END_SECTION:activity-->
 
