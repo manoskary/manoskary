@@ -7,11 +7,11 @@ Currently, I'm working on the Automatic Analysis of Music using Graph Neural Net
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#453](https://github.com/CPJKU/partitura/pull/453) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-2. 🔒 Closed issue [#2](https://github.com/manoskary/SMUG-Explain/issues/2) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
-3. 🎉 Merged PR [#449](https://github.com/CPJKU/partitura/pull/449) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-4. ❗ Opened issue [#2](https://github.com/manoskary/SMUG-Explain/issues/2) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
-5. 🎉 Merged PR [#429](https://github.com/CPJKU/partitura/pull/429) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+1. 🗣 Commented on [#453](https://github.com/CPJKU/partitura/pull/453#issuecomment-2939501296) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+2. 💪 Opened PR [#453](https://github.com/CPJKU/partitura/pull/453) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+3. 🔒 Closed issue [#2](https://github.com/manoskary/SMUG-Explain/issues/2) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
+4. 🎉 Merged PR [#449](https://github.com/CPJKU/partitura/pull/449) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
+5. ❗ Opened issue [#2](https://github.com/manoskary/SMUG-Explain/issues/2) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
 <!--END_SECTION:activity-->
 
 ---
