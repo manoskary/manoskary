@@ -7,11 +7,11 @@ Currently, I'm working on the Automatic Analysis of Music using Graph Neural Net
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#453](https://github.com/CPJKU/partitura/pull/453#issuecomment-2939501296) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-2. 💪 Opened PR [#453](https://github.com/CPJKU/partitura/pull/453) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-3. 🔒 Closed issue [#2](https://github.com/manoskary/SMUG-Explain/issues/2) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
-4. 🎉 Merged PR [#449](https://github.com/CPJKU/partitura/pull/449) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
-5. ❗ Opened issue [#2](https://github.com/manoskary/SMUG-Explain/issues/2) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
+1. 🗣 Commented on [#4](https://github.com/manoskary/SMUG-Explain/issues/4#issuecomment-2959332638) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
+2. 🗣 Commented on [#4](https://github.com/manoskary/SMUG-Explain/issues/4#issuecomment-2958438058) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
+3. 🗣 Commented on [#3](https://github.com/manoskary/SMUG-Explain/issues/3#issuecomment-2958392707) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
+4. 🗣 Commented on [#4](https://github.com/manoskary/SMUG-Explain/issues/4#issuecomment-2958384415) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
+5. 🗣 Commented on [#453](https://github.com/CPJKU/partitura/pull/453#issuecomment-2939501296) in [CPJKU/partitura](https://github.com/CPJKU/partitura)
 <!--END_SECTION:activity-->
 
 ---
