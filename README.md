@@ -7,11 +7,11 @@ Currently, I'm working on the Automatic Analysis of Music using Graph Neural Net
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/manoskary/SMUG-Explain/pull/5#issuecomment-3065872479) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
-2. 🔒 Closed issue [#4](https://github.com/manoskary/SMUG-Explain/issues/4) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
-3. 🗣 Commented on [#4](https://github.com/manoskary/SMUG-Explain/issues/4#issuecomment-2958438058) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
-4. 🗣 Commented on [#3](https://github.com/manoskary/SMUG-Explain/issues/3#issuecomment-2958392707) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
-5. 🗣 Commented on [#4](https://github.com/manoskary/SMUG-Explain/issues/4#issuecomment-2958384415) in [manoskary/SMUG-Explain](https://github.com/manoskary/SMUG-Explain)
+1. 🎉 Merged PR [#2](https://github.com/manoskary/analysisgnn/pull/2) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
+2. 🗣 Commented on [#2](https://github.com/manoskary/analysisgnn/pull/2#issuecomment-3355631059) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
+3. 🎉 Merged PR [#5](https://github.com/manoskary/analysisgnn/pull/5) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
+4. ❗ Opened issue [#4](https://github.com/manoskary/analysisgnn/issues/4) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
+5. ❗ Opened issue [#3](https://github.com/manoskary/analysisgnn/issues/3) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
 <!--END_SECTION:activity-->
 
 ---
