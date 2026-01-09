@@ -7,11 +7,11 @@ Currently, I'm working on the Automatic Analysis of Music using Graph Neural Net
 ### Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [manoskary/weavemuse](https://github.com/manoskary/weavemuse)
-2. 🗣 Commented on [#2](https://github.com/manoskary/analysisgnn/pull/2#issuecomment-3355631059) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
-3.  Assigned issue [#4](https://github.com/manoskary/analysisgnn/issues/4) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
-4. ❗ Opened issue [#4](https://github.com/manoskary/analysisgnn/issues/4) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
-5. ❗ Opened issue [#3](https://github.com/manoskary/analysisgnn/issues/3) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
+1. 🎉 Merged PR [#6](https://github.com/manoskary/analysisgnn/pull/6) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
+2. ℹ️ Assigned PR [#6](https://github.com/manoskary/analysisgnn/pull/6) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
+3. ℹ️ Assigned PR [#6](https://github.com/manoskary/analysisgnn/pull/6) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
+4. ℹ️ Labeled PR [#6](https://github.com/manoskary/analysisgnn/pull/6) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
+5. 💪 Opened PR [#6](https://github.com/manoskary/analysisgnn/pull/6) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
 <!--END_SECTION:activity-->
 
 ---
