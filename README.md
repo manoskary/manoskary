@@ -24,9 +24,9 @@ Currently, I work on automatic music analysis with Graph Neural Networks (GNNs),
   <img src="./profile/stats.svg" alt="Manos' GitHub stats" />
 </p>
 
-<p>
+<!-- <p>
   <img src="./profile/top-langs.svg" alt="Top languages" />
-</p>
+</p> -->
 
 ---
 
