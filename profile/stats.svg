@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Emmanouil Karystinaios' GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 232, Total Commits  : 1989, Total PRs: 76, Total Issues: 93, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 233, Total Commits  : 1989, Total PRs: 76, Total Issues: 93, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 53.95728816454227;
+        stroke-dashoffset: 53.90480100562203;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >232</text>
+      >233</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
