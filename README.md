@@ -9,10 +9,10 @@ Currently, I work on automatic music analysis with Graph Neural Networks (GNNs),
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/manoskary/analysisgnn/pull/6) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
-2. ℹ️ Assigned PR [#6](https://github.com/manoskary/analysisgnn/pull/6) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
-3. ℹ️ Assigned PR [#6](https://github.com/manoskary/analysisgnn/pull/6) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
-4. ℹ️ Labeled PR [#6](https://github.com/manoskary/analysisgnn/pull/6) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
+1. 🎉 Merged PR [#10](https://github.com/manoskary/neural-morphing/pull/10) in [manoskary/neural-morphing](https://github.com/manoskary/neural-morphing)
+2. 💪 Opened PR [#10](https://github.com/manoskary/neural-morphing/pull/10) in [manoskary/neural-morphing](https://github.com/manoskary/neural-morphing)
+3. 🎉 Merged PR [#9](https://github.com/manoskary/neural-morphing/pull/9) in [manoskary/neural-morphing](https://github.com/manoskary/neural-morphing)
+4. 💪 Opened PR [#9](https://github.com/manoskary/neural-morphing/pull/9) in [manoskary/neural-morphing](https://github.com/manoskary/neural-morphing)
 5. 💪 Opened PR [#6](https://github.com/manoskary/analysisgnn/pull/6) in [manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)
 <!--END_SECTION:activity-->
 
